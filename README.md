@@ -4,8 +4,8 @@ A focused, fast job board built with **Next.js 14 (App Router)**, **React**, **T
 
 ## Live Demo
 
-- **App:** _add your Vercel URL here after deploying_
-- **Repository:** _add your GitHub URL here_
+- **App:** https://job-board-rho-six.vercel.app  
+- **Repository:** https://github.com/Dineshkumar6301/job-board
 
 ## Features
 
