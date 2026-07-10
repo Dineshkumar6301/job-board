@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "code": "JOB-0417",
+    "title": "Backend Engineer, Python",
+    "company": "Northwind Systems",
+    "location": "Hyderabad, IN",
+    "remote": "Hybrid",
+    "type": "Full-time",
+    "level": "Mid",
+    "salaryMin": 1200000,
+    "salaryMax": 1900000,
+    "tags": ["Python", "Django", "PostgreSQL", "Kafka"],
+    "postedAt": "2026-07-06",
+    "description": "Own service-side features for our order platform, from schema design through deployment.",
+    "responsibilities": [
+      "Design and ship REST APIs used by 200K+ daily active users",
+      "Own PostgreSQL schema changes and migrations",
+      "Instrument services for latency and error-rate visibility"
+    ],
+    "requirements": [
+      "2+ years building production Django or FastAPI services",
+      "Comfortable with Kafka or another message broker",
+      "Solid SQL and query optimization skills"
+    ]
+  },
+  {
+    "id": "2",
+    "code": "JOB-0421",
+    "title": "Full Stack Developer",
+    "company": "Basecamp Labs",
+    "location": "Bengaluru, IN",
+    "remote": "Remote",
+    "type": "Full-time",
+    "level": "Mid",
+    "salaryMin": 1400000,
+    "salaryMax": 2200000,
+    "tags": ["React", "Django", "DRF", "AWS"],
+    "postedAt": "2026-07-05",
+    "description": "Build customer-facing features end to end across a Django API and a React front end.",
+    "responsibilities": [
+      "Ship features across DRF endpoints and a React/TypeScript client",
+      "Collaborate directly with design on UX details",
+      "Write and maintain test coverage with pytest"
+    ],
+    "requirements": [
+      "Experience with both a Python backend and a React frontend",
+      "Familiarity with CI/CD and cloud deployment (AWS or similar)",
+      "Comfortable owning a feature from spec to production"
+    ]
+  },
+  {
+    "id": "3",
+    "code": "JOB-0430",
+    "title": "AI/ML Engineer (LLM Applications)",
+    "company": "Solace AI",
+    "location": "Hyderabad, IN",
+    "remote": "Onsite",
+    "type": "Full-time",
+    "level": "Mid",
+    "salaryMin": 1600000,
+    "salaryMax": 2600000,
+    "tags": ["LangChain", "RAG", "pgvector", "FastAPI"],
+    "postedAt": "2026-07-08",
+    "description": "Build retrieval-augmented applications on top of LLM APIs for enterprise clients.",
+    "responsibilities": [
+      "Design RAG pipelines using pgvector and LLM APIs",
+      "Optimize latency for real-time inference endpoints",
+      "Evaluate and tune retrieval quality against labeled test sets"
+    ],
+    "requirements": [
+      "Hands-on experience with LangChain or similar agent frameworks",
+      "Experience with FastAPI and async Python",
+      "Understanding of embedding models and vector search"
+    ]
+  },
+  {
+    "id": "4",
+    "code": "JOB-0438",
+    "title": "Software Engineer, Platform",
+    "company": "Globalco",
+    "location": "Hitech City, Hyderabad, IN",
+    "remote": "Onsite",
+    "type": "Full-time",
+    "level": "Junior",
+    "salaryMin": 900000,
+    "salaryMax": 1400000,
+    "tags": ["Python", "APIs", "SQL", "Rotational Shift"],
+    "postedAt": "2026-07-09",
+    "description": "Join a platform team supporting always-on services with rotational on-call coverage.",
+    "responsibilities": [
+      "Build and maintain internal APIs",
+      "Participate in a rotational shift schedule for coverage",
+      "Debug and resolve production incidents"
+    ],
+    "requirements": [
+      "Strong fundamentals in Python and SQL",
+      "Willingness to work rotational shifts, fully onsite",
+      "Good written communication for handoffs between shifts"
+    ]
+  },
+  {
+    "id": "5",
+    "code": "JOB-0445",
+    "title": "Data Platform Engineer",
+    "company": "Harborline Analytics",
+    "location": "Pune, IN",
+    "remote": "Hybrid",
+    "type": "Full-time",
+    "level": "Mid",
+    "salaryMin": 1300000,
+    "salaryMax": 2000000,
+    "tags": ["Pandas", "ETL", "Kafka", "PostgreSQL"],
+    "postedAt": "2026-07-03",
+    "description": "Build and maintain ETL pipelines feeding analytics dashboards used company-wide.",
+    "responsibilities": [
+      "Design Kafka-based ingestion pipelines",
+      "Optimize PostgreSQL queries against large datasets",
+      "Automate manual data reconciliation workflows"
+    ],
+    "requirements": [
+      "Experience with Kafka and batch/stream ETL",
+      "Strong Pandas and SQL skills",
+      "Track record of measurable performance improvements"
+    ]
+  },
+  {
+    "id": "6",
+    "code": "JOB-0452",
+    "title": "Frontend Engineer, React",
+    "company": "Fieldstone Retail",
+    "location": "Remote (India)",
+    "remote": "Remote",
+    "type": "Contract",
+    "level": "Mid",
+    "salaryMin": 1100000,
+    "salaryMax": 1700000,
+    "tags": ["React", "TypeScript", "REST APIs"],
+    "postedAt": "2026-07-07",
+    "description": "Own the customer storefront UI, integrating with a Django-backed REST API.",
+    "responsibilities": [
+      "Build and maintain React components with strong test coverage",
+      "Integrate with existing DRF endpoints",
+      "Improve page load performance across the storefront"
+    ],
+    "requirements": [
+      "Solid React and TypeScript experience",
+      "Comfortable consuming REST APIs built on Django",
+      "Eye for UX detail and accessibility"
+    ]
+  }
+]
